@@ -1,0 +1,12 @@
+{
+  "name": "skilled_elearning_landing_page",
+  "version": "1.0.0",
+  "description": "Frontend Mentor Premium Newbie Challenge - Skilled e-learning landing page",
+  "main": "server.js",
+  "scripts": {
+    "client": "npm start --prefix client",
+    "dev": "npm run client"
+  },
+  "author": "Steven Woodward",
+  "license": "MIT"
+}

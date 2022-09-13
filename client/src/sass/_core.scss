@@ -7,6 +7,9 @@ $color-med-grey: #83869a;
 $color-dark-pink: #f74780;
 $color-med-pink: #ffa7c3;
 $color-white: #ffffff;
+$color-gradient-pink: #f02aa6;
+$color-gradient-orange: #ff6f48;
+$color-gradient-blue: #4851ff;
 
 $font-weight-extra-bold: 800;
 $font-weight-bold: 700;
@@ -43,4 +46,34 @@ body {
   font-weight: $font-weight-extra-bold;
   font-size: $font-size-heading-xl;
   line-height: $line-height-heading-xl;
+}
+
+.heading-l {
+  font-weight: $font-weight-extra-bold;
+  font-size: $font-size-heading-l;
+  line-height: $line-height-heading-l;
+}
+
+.heading-m {
+  font-weight: $font-weight-extra-bold;
+  font-size: $font-size-heading-m;
+  line-height: $line-height-heading-m;
+}
+
+.heading-s {
+  font-weight: $font-weight-extra-bold;
+  font-size: $font-size-heading-s;
+  line-height: $line-height-heading-s;
+}
+
+.body-m {
+  font-weight: $font-weight-medium;
+  font-size: $font-size-body-m;
+  line-height: $line-height-standard;
+}
+
+.body-s {
+  font-weight: $font-weight-bold;
+  font-size: $font-size-body-s;
+  line-height: $line-height-standard;
 }
